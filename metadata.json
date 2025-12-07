@@ -1,0 +1,5 @@
+{
+  "name": "Forex Trading Lab",
+  "description": "An AI-powered currency strength and weakness alert system. It uses Gemini to analyze volatility across major forex pairs by comparing current prices against the Daily 135 SMA.",
+  "requestFramePermissions": []
+}
